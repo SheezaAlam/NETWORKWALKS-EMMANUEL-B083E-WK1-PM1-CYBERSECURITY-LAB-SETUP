@@ -99,5 +99,5 @@ This lab is intended strictly for educational and authorized testing purposes.
 
 ## 👤 Author
 
-**Muhammad Bin Faisal**
+**Sheeza Alam Khan**
 BS Computer Science, Sir Syed University of Engineering & Technology, Karachi
